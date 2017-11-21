@@ -1,0 +1,15 @@
+{
+    "editor.tabSize": 2,
+    "typescript.referencesCodeLens.enabled": true,
+    "tslint.autoFixOnSave": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/jwplayer": false,
+        "node_modules/": true,
+        "yarn.lock": true
+    }
+}

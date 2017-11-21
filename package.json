@@ -1,0 +1,24 @@
+{
+  "name": "jwplayer-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "barsh <michael.barshinger@gmail.com>",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/jest": "^21.1.5",
+    "@types/jsdom": "^11.0.4",
+    "@types/jwplayer": "0.0.30",
+    "@types/node": "^8.0.51",
+    "jest": "^21.2.1",
+    "jsdom": "^11.3.0",
+    "ts-jest": "^21.1.4",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
