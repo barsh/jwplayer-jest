@@ -4,6 +4,21 @@ An attempt to load jwplayer with jsdom for testing with jest.
 
 ## Setup
 
+### 1. Fork the repo then
+
+````sh
+# Clone your fork of the repo into the current directory
+git clone https://github.com/<your-username>/jwplayer-jest
+# Navigate to the newly cloned directory
+cd jwplayer-jest
+# Assign the original repo to a remote called "upstream"
+git remote add upstream https://github.com/barsh/jwplayer-jest
+````
+
+### 2. Install dependencies
+
+[Install Yarn if necessary](https://yarnpkg.com/en/docs/install)
+
 ```sh
 yarn install
 ```
